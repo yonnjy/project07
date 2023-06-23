@@ -98,7 +98,7 @@
 }
 
 .main_vi .main_slide .itm01 {
-    background: url(../images/visual01.jpg) no-repeat center center/cover;
+    background: url(../images/visual03.jpg) no-repeat center center/cover;
 }
 
 .main_vi .main_slide .itm02 {
@@ -690,6 +690,7 @@
     border: 1px solid #00a664;
     background: #00a664;
 }
+
 .main_sns .sns_menu .menu_list li.on {
     color: #fff;
     border: 1px solid #00a664;
@@ -830,6 +831,7 @@
 .footer .family_site ul.on {
     display: block;
 }
+
 .footer .family_site span.on i {
     transform: rotate(180deg);
 }
